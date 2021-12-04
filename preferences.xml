@@ -1,5 +1,7 @@
-<Улюблений фільм>Код Да Вінчі</Улюблений фільм>
-<Улюблений серіал>Друзі</Улюблений серіал>
-<Улюблена їжа>Східна кухня</Улюблена їжа>
-<Улюблена пора року>Весна</Улюблена пора року>
-<Країна, яку ю хотіли відвідати>Чорногорія</Країна, яку хотіли б відвідати>
+<xml>
+  <favourite_movie>The Da Vinci Code</favourite_movie>
+  <favourite_series>Friends</favourite_series>
+	<favourite_food>Eastern Cuisine</favourite_food>
+  <favourite_season>Spring</favourite_season>
+	<the_country_wich_i_wood_like_to_visit>Montenegro</the_country_wich_i_wood_like_to_visit>
+</xml>
