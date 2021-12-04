@@ -1,5 +1,5 @@
-<xml>
-  <summary>Опис проблеми</summary>
+  <xml>
+<summary>Опис проблеми</summary>
 <project>назва проекту</project>
 <component>назва тестуючого компоненту</componenet>
 <version>версія, на якій було знайдено помилку</version>
