@@ -1,1 +1,15 @@
-
+<xmal>
+  <Summary>короткий опис проблеми і тип проблемної ситуації</Summary>
+<Project>назва проекту, який тестується</Project>
+<Component>назва тестуючого компоненту</Componenet>
+<Version>версія, на якій було знайдено помилку</Version>
+<Severity>серйозність</Severity>
+<Priority>пріорітет</Priority>
+<Status>статус бага</Status>
+<Author>автор звіту про баг</Author>
+<Environment>інформація про оточення, на якому виявлено баг</Environment>
+<Steps to reproduce>кроки відтворення багу</Steps to reproduce>
+<Actual Result>актуальний результат</Actual result>
+<Expected result>очікуваний результат</Expected result>
+<Attachment - файл, скрін відтворення помилки</Attachment>
+  </xml>
