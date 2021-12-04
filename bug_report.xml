@@ -1,15 +1,15 @@
 <xml>
-  <Summary>короткий опис проблеми і тип проблемної ситуації</Summary>
-<Project>назва проекту, який тестується</Project>
-<Component>назва тестуючого компоненту</Componenet>
-<Version>версія, на якій було знайдено помилку</Version>
-<Severity>серйозність</Severity>
-<Priority>пріорітет</Priority>
-<Status>статус бага</Status>
-<Author>автор звіту про баг</Author>
-<Environment>інформація про оточення, на якому виявлено баг</Environment>
-<Steps to reproduce>кроки відтворення багу</Steps to reproduce>
-<Actual Result>актуальний результат</Actual result>
-<Expected result>очікуваний результат</Expected result>
-<Attachment - файл, скрін відтворення помилки</Attachment>
+  <summary>Опис проблеми</summary>
+<project>назва проекту</project>
+<component>назва тестуючого компоненту</componenet>
+<version>версія, на якій було знайдено помилку</version>
+<severity>серйозність</severity>
+<priority>пріорітет</priority>
+<status>статус бага</status>
+<author>автор звіту про баг</author>
+<environment>інформація про оточення, на якому виявлено баг</environment>
+<steps_to_reproduce>кроки відтворення багу</steps_to_reproduce>
+<actual_result>актуальний результат</actual_result>
+<axpected_result>очікуваний результат</expected_result>
+<attachment> файл, скрін відтворення помилки</attachment>
   </xml>
